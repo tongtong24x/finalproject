@@ -23,8 +23,8 @@ Suggests: knitr, testthat, rmarkdown, pkgdown
 License: Artistic-2.0
 VignetteBuilder: quarto
 Encoding: UTF-8
-URL: https://github.com/JasonYao-QY/finalproject
-BugReports: https://github.com/JasonYao-QY/finalproject/issues
+URL: https://github.com/tongtong24x/finalproject
+BugReports: https://github.com/tongtong24x/finalproject/issues
 Config/roxygen2/version: 8.1.1
 Roxygen: list(markdown=TRUE)
 
