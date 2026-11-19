@@ -3,8 +3,9 @@ pkgdown: 2.2.1
 pkgdown_sha: ~
 articles:
   instructions: instructions.html
+  proposal: proposal.html
   stubs: stubs.html
-last_built: 2026-11-16T15:08Z
+last_built: 2026-11-19T03:45Z
 urls:
   reference: https://tongtong24x.github.io/finalproject/reference
   article: https://tongtong24x.github.io/finalproject/articles
