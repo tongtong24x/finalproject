@@ -1,3 +1,4 @@
+
 url: https://tongtong24x.github.io/finalproject/
 
 template:
@@ -12,4 +13,12 @@ navbar:
       text: Proposal
       href: articles/proposal.html
 
+articles:
+  - title: Project Proposal
+    contents:
+      - proposal
+  - title: Course Materials
+    contents:
+      - instructions
+      - stubs
 
