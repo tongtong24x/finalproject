@@ -1,4 +1,18 @@
 url: https://tongtong24x.github.io/finalproject/
+
 template:
   bootstrap: 5
 
+navbar:
+  structure:
+    left: [intro, reference, proposal]
+    right: [search, github]
+  components:
+    proposal:
+      text: Proposal
+      href: articles/proposal.html
+
+articles:
+  - title: Project Proposal
+    contents:
+      - proposal
